@@ -1,0 +1,29 @@
+{
+  "name": "deployment-and-devops-essentials-clautat",
+  "version": "1.0.0",
+  "description": "This assignment focuses on deploying a full MERN stack application to production, implementing CI/CD pipelines, and setting up monitoring for your application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-ClauTat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-ClauTat/issues"
+  },
+  "homepage": "https://github.com/PLP-MERN-Stack-Development/deployment-and-devops-essentials-ClauTat#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "mongoose": "^8.19.3",
+    "morgan": "^1.10.1",
+    "socket.io-client": "^4.8.1"
+  }
+}
